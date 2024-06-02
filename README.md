@@ -991,3 +991,4 @@ Where host is the name of extractor (eg. instagram, Twitch). Multiple accounts o
 
 </details>
 
+![Deploy](https://heroku.com/deploy)
